@@ -1,7 +1,7 @@
-const ownerNumber = ["17694448714@s.whatsapp.net"] 
+const ownerNumber = ["50230352928@s.whatsapp.net"] 
 // Tú número
 
-const OriginalOwner = '17694448714' 
+const OriginalOwner = '50230352928' 
 // Tú número x2
 
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
@@ -10,10 +10,10 @@ const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
 const cr = '℘ąɬơ ცơɬ ۷5\n' 
 // texto del menu
 
-const prefix = '!' 
+const prefix = '*' 
 // prefixo
 
-const blockedmsg = '*Tu número esta baneado con el bot😘*'
+const blockedmsg = '*El bot te baneo por manco😘*'
 // mensagem quando alguem bloqueado solicita um comando
 
 const blockedcmdmsg = '*Este comando está bloqueado🚫*'
@@ -21,7 +21,7 @@ const blockedcmdmsg = '*Este comando está bloqueado🚫*'
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '*Corre miembro del grupo, tu ban esta cerca*'
+const banmsgtype = '*Empieza a carrer perra*'
 // mensagem de ban no anti tipos de mensagem
 
 const adminmsgtype = '*Eres admin te salvaste*'
@@ -30,13 +30,13 @@ const adminmsgtype = '*Eres admin te salvaste*'
 const banmsgporn = '*Pajero* ...'
 // mensagem de ban no antiporn
 
-const adminmsgporn = '*Vaya vaya un admin pajero*'
+const adminmsgporn = '*Uy, un admin pajero*'
 // mensagem de quando adm manda porn com antiporn ativado
 
-const banmsglink = '*Corre miembro del grupo, tu ban esta cerca*'
+const banmsglink = '*Dame 3 motivos para no sacarte*'
 // mensagem de ban no antilink
 
-const adminmsglink = 'Te salvaste por ser admin 🙃'
+const adminmsglink = 'Te salvaste por admin 🙃'
 // mensagem de quando adm manda link
 
 const adminmsgpalavra = 'Te salvaste por ser admin'
@@ -65,7 +65,7 @@ const textmsgnig = 'Que tengas un buen dia '
 
 // MENSAGENS DE ERRO
 
-const msgerr = 'Lo siento ocurrio un error intentalo nuevamente'
+const msgerr = 'Se cago, welve a intentarolo'
 // mensagem de erro
 
 // MENSAGENS DE AUTOREPLY
@@ -94,7 +94,7 @@ const apiTobz = 'key'
 // MENSAGENS DE EXCLUSIVIDADE
 let mess = {
     wait: '⌛ Aguanta we⌛',
-    success: '✔️ Con exito ✔️',
+    success: '✔️ Awebo ✔️',
     error: {
         stick: '❌ No se pudo convertir a sticker ❌',
         Iv: '❌ Link inválido ❌'
