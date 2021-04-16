@@ -1,7 +1,7 @@
-const ownerNumber = ["17694448714@s.whatsapp.net"] 
+const ownerNumber = ["50230352928@s.whatsapp.net"] 
 // Tú número
 
-const OriginalOwner = '17694448714' 
+const OriginalOwner = '50230352928' 
 // Tú número x2
 
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
@@ -10,7 +10,7 @@ const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
 const cr = '℘ąɬơ ცơɬ ۷5\n' 
 // texto del menu
 
-const prefix = '!' 
+const prefix = '*' 
 // prefixo
 
 const blockedmsg = '*Tu número esta baneado con el bot😘*'
